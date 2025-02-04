@@ -5,7 +5,7 @@ Clone this basic weather app functionality, and import your styling from Figma!
 
 - [Node.js](https://nodejs.org/) (v12 or later)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
-- [WeatherBit API](https://www.weatherbit.io/)
+- [WeatherBit API](https://www.weatherbit.io/) (register for this before the event so you have access)
 
 
 Created for the ACM x WICs Collaborative Event (2/5/24)
